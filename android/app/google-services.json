@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501383539183",
+    "project_id": "esoftfirebase-ca75e",
+    "storage_bucket": "esoftfirebase-ca75e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501383539183:android:56777aa14015031c272e1a",
+        "android_client_info": {
+          "package_name": "com.esoft.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJQF3ZsF3NVmpmeZiyrxj5Fix9kpYcpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
